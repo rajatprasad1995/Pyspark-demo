@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 Data wrangling/movielens/
+Data wrangling/metastore_db/
+Data%20wrangling/
 # C extensions
 *.so
 
