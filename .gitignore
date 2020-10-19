@@ -7,7 +7,8 @@ Data wrangling/metastore_db/
 Data%20wrangling/
 # C extensions
 *.so
-
+.dat
+.ctrl
 # Distribution / packaging
 .Python
 build/
