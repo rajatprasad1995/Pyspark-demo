@@ -1,7 +1,7 @@
 # Pyspark-demo
 In this repository I will demonstrate how pyspark can be used to do data wrangling, plot insights using pandas, plotly.
 
-The folder "Data Wrangling"  contains couple of jupyter notebooks (.ipynb) where I use spark to wrangle data and use plotly, Pandas to generate insights. 
+The folder "Data Wrangling"  contains a couple of jupyter notebooks (.ipynb) where I use spark to wrangle data and use plotly, Pandas to generate insights. 
 
 I used the 2.4.3 version of Spark in undertake all tasks mentioned above.
 
